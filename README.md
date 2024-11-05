@@ -17,10 +17,10 @@ I’m a Java backend developer focused on building **scalable, high-performance 
 - Tackling **Data Structures and Algorithms** for stronger problem-solving
 
 🌱 **A bit more about me:**  
-I’m passionate about **organic farming**, philosophy, and poetry, and aim to balance my technical career with meaningful projects. I’m from Bihar, and I value spending time with family and supporting them while working remotely.
+I’m passionate about **Film Making**, **Organic farming**, **Philosophy**, and **Poetry**, and aim to balance my technical career with meaningful projects. I’m from **Bihar**, and I value spending time with family and supporting them while working remotely.
 
 🔭 **Future goals:**  
-To dive into **freelancing** as a Java backend specialist, keep learning, and contribute to impactful projects. 
+To dive into **freelancing** as a **Backend Specialist**, keep learning, and contribute to impactful projects. 
 
 ---
 
