@@ -45,9 +45,10 @@ Let’s connect and bring ideas to life! 😊
 ---
 [![](https://visitcount.itsvg.in/api?id=Adityakumarsinghstm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# GitHub Activity Graph
+# GitHub Contribution Snake
 
-[![Aditya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Adityakumarsinghstm/github-readme-activity-graph)
+![GitHub Contribution Snake](https://github.com/Adityakumarsinghstm/Adityakumarsinghstm/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
